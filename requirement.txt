@@ -1,0 +1,12 @@
+lightgbm
+dask
+glog
+matplotlib
+tqdm
+pandas
+numpy
+pyarrow
+fastparquet
+gensim
+annoy
+pandarallel
